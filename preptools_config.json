@@ -1,5 +1,5 @@
 {
   "url": "https://zicon.net.solidwallet.io/api/v3",
   "nid": 80,
-  "keystore": "./icon/cert/UTC--2020-07-22T05_02_36.430Z--hxca1e081e686ec4975d14e0fb8f966c3f068298be"
+  "keystore": "./icon-pagoda/cert/pagoda_test"
 }
