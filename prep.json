@@ -3,7 +3,7 @@
   "country": "KOR",
   "city": "Pohang",
   "email": "kjheon1118@postech.ac.kr",
-  "website": ""http://ccbr.postech.ac.kr,
+  "website": "http://ccbr.postech.ac.kr",
   "details": "https://github.com/alterkim/prep-config/blob/master/config.json",
   "p2pEndpoint": "141.223.82.187:7100"
 }
